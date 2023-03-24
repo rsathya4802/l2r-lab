@@ -2,6 +2,6 @@ cv_trainer_config:
   num_epochs: 300
   lr: 0.001
   batch_size: 32
-  model_save_path: '/mnt/vae/'
+  model_save_path: '.'
   train_data_path: '/mnt/data/train'
   val_data_path: '/mnt/data/val'
